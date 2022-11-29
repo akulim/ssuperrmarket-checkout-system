@@ -21,6 +21,7 @@ Download the file, and run it with the Python console: `run ssmarket-checkout-sy
 ![image](https://user-images.githubusercontent.com/67132657/204477572-8c6d1a1a-b181-4040-a52a-f40efea720a3.png)
 3. Reviewing order and total transaction. <br>
 ![image](https://user-images.githubusercontent.com/67132657/204477643-c7dc81c4-6fad-43ec-8c0b-cd23c125815b.png)
+<br>
 ![image](https://user-images.githubusercontent.com/67132657/204477816-e8659077-d586-40d5-a709-8b5ad463f4f8.png)
 4. Reset order. <br>
 ![image](https://user-images.githubusercontent.com/67132657/204478007-cb62b97e-4e76-42fe-83dc-e9b59cc11ab6.png)
