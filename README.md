@@ -1,4 +1,4 @@
-# SSuperrmarket Management System
+# SSuperrmarket Checkout System
 A final project from Python class of <a href="pacmann.ai">Pacmann</a>, to create a simple checkout application for supermarket.
 
 ## Requirements
