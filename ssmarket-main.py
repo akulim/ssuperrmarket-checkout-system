@@ -12,6 +12,7 @@ while True:
     if opt == 1:
         """
         option 1: to add new item to buy, could only proceed 1 item per-run
+        :output: a list of item's name, price, and quantity
         """
         print("-"*25)
         print("ADD ITEM TO BUY")
@@ -33,6 +34,7 @@ while True:
     elif opt == 2:   
         """
         option 2: to update/change item's detail, could only proceed 1 detail.
+        :output the notification that change has been saved."
         """
         print("-"*25)
         print("UPDATE ITEM")
@@ -45,6 +47,8 @@ while True:
                 """
                 Function to update item details, such as: name, quantity, or price.
                 The old details that are not listed, won't affect any.
+                :param: old item's name/price/quantity, and the new one.
+                :return: the change of value in list.
                 """
                 for x in items:
                     for k, v in x.items():
@@ -74,7 +78,8 @@ while True:
         
     elif opt == 3:
         """
-        option 3: to delete items based on item's name
+        option 3: to delete items based on item's name.
+        :output: deleting item's name with notification that it has been deleted.
         """
         print("-"*25)
         print("DELETE ITEM")
@@ -99,6 +104,7 @@ while True:
     elif opt == 4:
         """
         option 4: to review all orders and process to payment
+        :output: dataframe of bought items and the total payment (including discount rules) and process to payment.
         """
         print("-"*25)
         print("REVIEW ORDER")
@@ -135,6 +141,7 @@ while True:
     elif opt == 5:
         """
         option 5: to clear all items
+        :output: all items on the dictionary will be deleted and notification that it has been cleared.
         """
         print("-"*25)
         print("RESET ORDER")
