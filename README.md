@@ -11,7 +11,8 @@ The program should fulfill some requirements, they are:
 6. Total transaction
 
 ## How To Use
-Download the .py file, and run it on the terminal/Python console: `run ssmarket-main.py`
+- Download the .py file, and run it on the terminal/Python console: `run ssmarket-main.py`
+- or, you could run it with replit, <a href="https://replit.com/@akulim/ssuperrmarket-checkout-system#main.py">click here to try!</a>
 
 ## Test Case Result
 
